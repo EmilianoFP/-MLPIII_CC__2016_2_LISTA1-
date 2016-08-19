@@ -2,3 +2,4 @@
 Repositório da Lista 1 de Exercícios - MLPIII
 
 ALUNO: Emiliano de Freitas Pessoa Filho
+Diogo Alex Dornelas de Andrade
